@@ -1,3 +1,0 @@
-/home/padfoot/projects/karatsuba/cmake/CMakeFiles/karatsuba.dir
-/home/padfoot/projects/karatsuba/cmake/CMakeFiles/edit_cache.dir
-/home/padfoot/projects/karatsuba/cmake/CMakeFiles/rebuild_cache.dir
